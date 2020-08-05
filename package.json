@@ -55,7 +55,7 @@
     "exif": "^0.6.0",
     "exif-date": "^2.0.1",
     "express": "^4.15.2",
-    "express-fileupload": "^0.1.2",
+    "express-fileupload": "^1.1.9",
     "image-size": "^0.5.4",
     "neo4j-driver": "^1.1.1",
     "pug": "^2.0.0-beta11",
